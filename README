@@ -1,0 +1,3 @@
+Python script to read info from a Xiaomi M365 Scooter.
+
+Based on the protocol analysis by Camilo Ruiz https://github.com/CamiAlfa/M365-BLE-PROTOCOL
